@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Verdana, sans-serif;
+}
+
+body {
+    background-color: #58B09C;
+    color: #14110f;
+    text-align: center;
+}
+
+#palindrome-interface{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;
+}
+
+#validator-container{
+    background-color: #fef9ef;
+    padding: 15px;
+    margin: 30px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+#results-message{
+    font-size: 20px;
+    color: black;
+}
+
+#string-input {
+    margin: 10px 0;
+    height: 20px;
+    padding: 5px;
+    border: none;
+    background-color: #fef9ef;
+    border-bottom: 2px solid 
+}
+
+#explainer-msg{
+    background-color: #473198;
+    color: #fef9ef;
+    padding: 15px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+#validate-btn{
+    background-color: #086788;
+    color: #fef9ef;
+    height: 30px;
+    padding: 0 10px;
+    border-radius: 10px;
+}
+
+#validate-btn:hover{
+    background-color: #436666;
+    cursor: pointer;
+}
