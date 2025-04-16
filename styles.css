@@ -5,8 +5,8 @@
 }
 
 body {
-    background-color: #58B09C;
-    color: #14110f;
+    background-color: #473198;
+    color: #fef9ef;
     text-align: center;
 }
 
@@ -40,7 +40,7 @@ body {
 }
 
 #explainer-msg{
-    background-color: #473198;
+    background-color: #58B09C;
     color: #fef9ef;
     padding: 15px;
     border-radius: 10px;
